@@ -7,5 +7,9 @@ public class Simple_Test {
 		System.out.println("IST:1");
 		System.out.println("IST:2");
 		System.out.println("IST:3");
+		//EST Zone
+		System.out.println("EST:1");
+		System.out.println("EST:2");
+		System.out.println("EST:3");
 	}
 }
